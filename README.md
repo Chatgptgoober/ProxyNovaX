@@ -57,7 +57,7 @@ Changes are documented in the [changelog](./CHANGELOG.md).
 
 ## Deployment
 
-This repository can be built, but it can't be deployed to any services. See [Ultraviolet-App](https://github.com/titaniumnetwork-dev/Ultraviolet-App) for a complete and customizable Ultraviolet setup that you can deploy.
+This repository can be built, but it can't be deployed to any services. See [Ultraviolet-App](https://github.com/titaniumnetwork-dev/Ultraviolet-App) for a complete and customizable Ultraviolet setup that you can deploy. 
 
 ## Documentation
 
